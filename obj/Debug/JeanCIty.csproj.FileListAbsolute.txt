@@ -1,0 +1,36 @@
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\bin\Debug\JeanCIty.exe.config
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\bin\Debug\JeanCIty.exe
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\bin\Debug\JeanCIty.pdb
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\bin\Debug\Neurotec.Biometrics.Nffv.xml
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csprojAssemblyReference.cache
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmInicio.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmLogin.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmRegistro.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Properties.Resources.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csproj.GenerateResource.cache
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csproj.CoreCompileInputs.cache
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csproj.CopyComplete
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.exe
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.pdb
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmCheckin.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmGuardarReserva.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmMenu.resources
+C:\Users\josorio\source\repos\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmCapturando.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\bin\Debug\JeanCIty.exe.config
+D:\trabajo de grado full\JeanCIty\JeanCIty\bin\Debug\JeanCIty.exe
+D:\trabajo de grado full\JeanCIty\JeanCIty\bin\Debug\JeanCIty.pdb
+D:\trabajo de grado full\JeanCIty\JeanCIty\bin\Debug\Neurotec.Biometrics.Nffv.xml
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csprojAssemblyReference.cache
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmGuardarReserva.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmCapturando.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmCheckin.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frminicio.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmLogin.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmMenu.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Formas.frmRegistro.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.Properties.Resources.resources
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csproj.GenerateResource.cache
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csproj.CoreCompileInputs.cache
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.csproj.CopyComplete
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.exe
+D:\trabajo de grado full\JeanCIty\JeanCIty\obj\Debug\JeanCIty.pdb
